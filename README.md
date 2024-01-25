@@ -74,9 +74,8 @@ bash Android-Setup.sh
 ```
 ````
 bash AdvPhishing.sh
-
 ```
-
+```
 ### INSTALLATION [ KALI ]
 ```
 cd $HOME
