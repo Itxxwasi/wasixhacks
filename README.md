@@ -57,12 +57,24 @@ When victim enter his credentials, you need to go to original website and use th
 
 ### INSTALLATION [ TERMUX]
 ```
-cd $HOME 
+cd $HOME
+```
+```
+apt install git
+```
+```
 git clone https://github.com/The-Boss-Hacker/BossAdv.git
 cd BossAdv/
+```
+```
 chmod 777 *
+```
+```
 bash Android-Setup.sh
+```
+````
 bash AdvPhishing.sh
+
 ```
 
 ### INSTALLATION [ KALI ]
